@@ -30,6 +30,7 @@ fi
 
 git clone https://github.com/CalebHeydon/libfreenect2
 cd libfreenect2
+./install-dep.sh
 
 mkdir build
 cd build
